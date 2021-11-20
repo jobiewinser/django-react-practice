@@ -31,7 +31,7 @@ STATICFILES_DIRS = [
     'staticfiles/'
 ]
 
-ALLOWED_HOSTS = ["192.168.0.11"]
+ALLOWED_HOSTS = ["192.168.0.11", "localhost"]
 
 
 # Application definition
@@ -43,6 +43,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'corsheaders',
+    'rest_framework',
+    'todo',
 ]
 
 MIDDLEWARE = [
@@ -53,6 +56,11 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
+]
+
+CORS_ORIGIN_WHITELIST = [   
+    'http://192.168.0.11:3000',
 ]
 
 ROOT_URLCONF = 'backend.urls'

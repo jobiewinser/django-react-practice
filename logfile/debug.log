@@ -1,0 +1,148 @@
+2021-11-20 10:36:17,695 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:36:31,414 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 10:36:59,457 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 10:37:01,141 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:37:15,210 django.utils.autoreload INFO     /var/www/django-react-practice/backend/settings.py changed, reloading.
+2021-11-20 10:37:16,963 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:37:39,296 django.utils.autoreload INFO     /var/www/django-react-practice/backend/settings.py changed, reloading.
+2021-11-20 10:37:41,152 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:37:45,706 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 10:38:20,354 django.utils.autoreload INFO     /var/www/django-react-practice/backend/settings.py changed, reloading.
+2021-11-20 10:38:22,176 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:38:25,364 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 10:38:41,495 django.utils.autoreload INFO     /var/www/django-react-practice/backend/settings.py changed, reloading.
+2021-11-20 10:38:43,444 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:38:48,139 django.utils.autoreload INFO     /var/www/django-react-practice/backend/settings.py changed, reloading.
+2021-11-20 10:38:49,876 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:39:01,846 django.utils.autoreload INFO     /var/www/django-react-practice/backend/settings.py changed, reloading.
+2021-11-20 10:39:03,632 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:39:08,718 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 10:40:22,561 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 10:40:24,235 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:41:00,673 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 10:41:02,370 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:41:09,692 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:41:31,610 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:42:14,075 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:42:18,916 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 10:44:16,424 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:44:36,674 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 10:45:18,647 django.utils.autoreload INFO     /var/www/django-react-practice/backend/settings.py changed, reloading.
+2021-11-20 10:45:39,061 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:46:07,576 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:46:15,328 django.utils.autoreload INFO     /var/www/django-react-practice/backend/settings.py changed, reloading.
+2021-11-20 10:46:17,369 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:46:26,298 django.utils.autoreload INFO     /var/www/django-react-practice/backend/settings.py changed, reloading.
+2021-11-20 10:46:28,196 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:46:33,835 django.utils.autoreload INFO     /var/www/django-react-practice/backend/settings.py changed, reloading.
+2021-11-20 10:46:35,858 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:46:39,993 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 10:47:07,810 django.utils.autoreload INFO     /var/www/django-react-practice/backend/settings.py changed, reloading.
+2021-11-20 10:47:09,919 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:47:31,343 django.utils.autoreload INFO     /var/www/django-react-practice/backend/settings.py changed, reloading.
+2021-11-20 10:47:33,481 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:47:39,325 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 10:48:08,707 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 10:48:10,903 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:48:13,652 django.utils.autoreload INFO     /var/www/django-react-practice/todo/serializers.py changed, reloading.
+2021-11-20 10:48:15,732 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:48:20,508 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 10:48:45,569 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 10:48:47,409 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:48:55,218 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 10:48:57,266 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:49:00,146 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 10:49:27,143 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 10:49:29,214 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:49:43,319 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 10:49:45,312 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:49:51,903 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 10:51:04,472 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:51:12,709 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 10:51:25,851 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 10:53:41,891 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 10:54:31,551 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 10:56:11,335 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 10:56:32,454 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 10:58:30,855 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 10:58:36,155 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 10:59:15,761 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 11:24:33,078 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 11:25:13,356 django.utils.autoreload INFO     /var/www/django-react-practice/backend/settings.py changed, reloading.
+2021-11-20 11:25:15,828 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 11:25:18,853 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 11:25:54,665 django.utils.autoreload INFO     /var/www/django-react-practice/backend/settings.py changed, reloading.
+2021-11-20 11:27:36,100 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 11:27:40,909 django.request ERROR    Internal Server Error: /api/todos/
+Traceback (most recent call last):
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/var/www/django-react-practice/todo/serializers.py", line 11, in create
+    return super().create(self, validated_data)
+TypeError: create() takes 2 positional arguments but 3 were given
+2021-11-20 11:27:44,605 django.utils.autoreload INFO     /var/www/django-react-practice/todo/serializers.py changed, reloading.
+2021-11-20 11:27:46,996 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 11:27:55,904 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 11:28:49,556 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 11:28:51,861 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 11:29:12,133 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 11:29:33,043 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 11:29:57,338 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 11:31:34,685 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 11:32:12,624 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 11:32:48,879 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 11:32:50,928 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 11:32:52,611 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 11:32:54,414 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 11:33:00,204 django.request ERROR    Internal Server Error: /api/todos/
+Traceback (most recent call last):
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/rest_framework/views.py", line 492, in dispatch
+    request = self.initialize_request(request, *args, **kwargs)
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/rest_framework/viewsets.py", line 146, in initialize_request
+    request = super().initialize_request(request, *args, **kwargs)
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/rest_framework/views.py", line 394, in initialize_request
+    authenticators=self.get_authenticators(),
+  File "/var/www/django-react-practice/env/lib/python3.9/site-packages/rest_framework/views.py", line 272, in get_authenticators
+    return [auth() for auth in self.authentication_classes]
+TypeError: 'type' object is not iterable
+2021-11-20 11:33:34,954 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 11:35:44,826 django.request WARNING  Not Found: /babel/parser/lib/index.js
+2021-11-20 11:38:08,738 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 11:38:10,560 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 11:38:19,896 django.request WARNING  Forbidden: /api/todos/
+2021-11-20 11:39:33,637 django.request WARNING  Not Found: /babel/parser/lib/index.js
+2021-11-20 11:44:33,088 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 11:44:34,956 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 11:44:37,552 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 11:44:39,475 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 11:45:15,880 django.utils.autoreload INFO     /var/www/django-react-practice/todo/views.py changed, reloading.
+2021-11-20 11:45:17,846 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-20 11:46:50,708 django.utils.autoreload INFO     /var/www/django-react-practice/backend/settings.py changed, reloading.
